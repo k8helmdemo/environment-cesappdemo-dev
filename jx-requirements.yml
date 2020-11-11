@@ -1,8 +1,8 @@
 cluster:
   clusterName: ""
   environmentGitOwner: "cesdemo"
-  gitKind: gitLab
-  gitName: Ubaidali
+  gitKind: "gitLab"
+  gitName: "Ubaidali"
   gitServer: https://gitlab.com
   environmentGitPublic: false
   project: ""
