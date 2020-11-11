@@ -1,6 +1,9 @@
 cluster:
   clusterName: ""
-  environmentGitOwner: ""
+  environmentGitOwner: "cesdemo"
+  gitKind: gitLab
+  gitName: Ubaidali
+  gitServer: https://gitlab.com
   environmentGitPublic: false
   project: ""
   provider: gke
